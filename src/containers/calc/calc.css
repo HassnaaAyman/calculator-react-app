@@ -1,0 +1,11 @@
+input{
+    height: 100%;
+    width: auto;
+    border: none;
+    text-align: right;
+    font-size: 32px;
+    position: relative;
+    max-width: 100vw;
+    margin-right: 195px;
+    float: right;
+}
